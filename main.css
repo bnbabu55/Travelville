@@ -1,0 +1,35 @@
+.slider .btn {
+  margin-top: 20px;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.section-contact h5 {
+  margin-bottom: 20px;
+}
+
+.collection-header {
+  margin-top: 2px !important;
+}
+
+.map-responsive{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+
+.map-responsive iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
