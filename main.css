@@ -10,6 +10,12 @@
   margin-bottom: 20px;
 }
 
+.section-showcase {
+  background-image: url(../img/chennai_central.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .collection-header {
   margin-top: 2px !important;
 }
@@ -29,7 +35,18 @@
   position:absolute;
 }
 
-.footer-wrapper {
-  display: flex;
-  justify-content: space-between;
+.footer-menu {
+  margin-bottom: 0px !important;
+}
+
+.footer-menu a {
+  padding: 2rem !important;
+}
+
+.small-menu > a {
+  align-self: center !important;
+}
+
+.page-footer a:hover {
+  color: #ffc107 !important;
 }
